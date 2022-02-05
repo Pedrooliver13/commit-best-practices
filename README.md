@@ -24,9 +24,9 @@ O título é dividido em 2 partes: o tipo e o assunto .
 - feat: Novo Recurso
 - fix: Uma correção de bug
 - docs: Alteração na documentação
-- style: formatação, falta de ponto e vírgula, etc.; sem alteração de código
-- test: adição de testes, refatoração de testes; sem alteração de código de produção
-- chore: atualizar tarefas de compilação, configurações do gerenciador de pacotes, etc.;
+- style: Formatação, falta de ponto e vírgula, etc.; sem alteração de código
+- test: Adição de testes, refatoração de testes; sem alteração de código de produção
+- chore: Atualizar tarefas de compilação, configurações do gerenciador de pacotes, etc.;
 
 ## :book: Como escrever ?
 
