@@ -1,9 +1,7 @@
 ## :computer: Commit 
 - Cada commit deve ser uma única alteração lógica. Não faça várias alterações lógicas em um commit. Por exemplo, se corrigir um bug, e otimizar o desempenho de um recurso, divida-o em dois commits separados.
 
-- <b>Não divida uma única alteração lógica em vários commits.</b> Por exemplo, a implementação de um recurso e os testes correspondentes devem estar no mesmo commit. Não divida uma única alteração lógica em vários commits.
-
-- Commit cedo e com frequência . Commits pequenos e autocontidos são mais fáceis de entender e reverter quando algo dá errado.
+- Commit cedo e com frequência . Commits pequenos e autocontidos são mais fáceis de entender e reverter quando algo de errado.
 
 - Os commits devem ser ordenados logicamente . Por exemplo, se o commit X depende das mudanças feitas no commit Y, então o commit Y deve vir antes do commit X.
 
