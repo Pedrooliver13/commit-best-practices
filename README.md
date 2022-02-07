@@ -34,7 +34,7 @@ Os assuntos não devem ter mais de 50 caracteres, devem começar com letra maiú
 
 ```
 # GOOD
-refactor: Refactor subsystem X for readability
+feat: Create tab anyName
 fix: Remove deprecated methods
 
 # BAD
